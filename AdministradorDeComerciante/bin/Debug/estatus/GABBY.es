@@ -1,0 +1,1 @@
+{"Todo":null,"capital":0.0,"GanaciaEstimada":0.0,"Stock":0.0,"seguro":15.0,"Volatil":0.0,"MontoVentas":49.28782,"id":"ÿ¶\u0019K\u0006Kf§ú_9ëü\u0015"}
